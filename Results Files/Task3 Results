@@ -1,0 +1,437 @@
+Neighbourhood: 2000
+    Average RMSE: 0.8141063295729568
+    Coverage: 99.72800000000001%
+    Time:1.923208443
+
+    Average RMSE: 0.8141063295729568
+    Coverage: 99.72800000000001%
+    Time:1.636170628
+
+    Average RMSE: 0.8141063295729568
+    Coverage: 99.72800000000001%
+    Time:1.693909314
+
+    Average RMSE: 0.8141063295729568
+    Coverage: 99.72800000000001%
+    Time:1.529526028
+
+    Average RMSE: 0.8141063295729568
+    Coverage: 99.72800000000001%
+    Time:1.742234065
+
+    Average RMSE: 0.8141063295729568
+    Coverage: 99.72800000000001%
+    Time:1.566390247
+
+    Average RMSE: 0.8141063295729568
+    Coverage: 99.72800000000001%
+    Time:1.605707538
+
+    Average RMSE: 0.8141063295729568
+    Coverage: 99.72800000000001%
+    Time:1.573805206
+
+    Average RMSE: 0.8141063295729568
+    Coverage: 99.72800000000001%
+    Time:1.533074559
+
+    Average RMSE: 0.8141063295729568
+    Coverage: 99.72800000000001%
+    Time:1.63607528
+
+Neighbourhood: 10
+    Average RMSE: 0.8614806534955622
+    Coverage: 97.92999999999999%
+    Time:0.546692182
+    Average RMSE: 0.8614806534955622
+    Coverage: 97.92999999999999%
+    Time:0.545682892
+    Average RMSE: 0.8614806534955622
+    Coverage: 97.92999999999999%
+    Time:0.299927617
+    Average RMSE: 0.8614806534955622
+    Coverage: 97.92999999999999%
+    Time:0.298830806
+    Average RMSE: 0.8614806534955622
+    Coverage: 97.92999999999999%
+    Time:0.318021484
+    Average RMSE: 0.8614806534955622
+    Coverage: 97.92999999999999%
+    Time:0.404862399
+    Average RMSE: 0.8614806534955622
+    Coverage: 97.92999999999999%
+    Time:0.318588628
+    Average RMSE: 0.8614806534955622
+    Coverage: 97.92999999999999%
+    Time:0.278762169
+    Average RMSE: 0.8614806534955622
+    Coverage: 97.92999999999999%
+    Time:0.251741756
+    Average RMSE: 0.8614806534955622
+    Coverage: 97.92999999999999%
+    Time:0.266922988
+
+Neighbourhood: 50
+    Average RMSE: 0.8147253654176718
+    Coverage: 99.466%
+    Time:1.301860352
+    Average RMSE: 0.8147253654176718
+    Coverage: 99.466%
+    Time:0.767307134
+    Average RMSE: 0.8147253654176718
+    Coverage: 99.466%
+    Time:0.852964836
+    Average RMSE: 0.8147253654176718
+    Coverage: 99.466%
+    Time:0.6465457
+    Average RMSE: 0.8147253654176718
+    Coverage: 99.466%
+    Time:0.53514731
+    Average RMSE: 0.8147253654176718
+    Coverage: 99.466%
+    Time:0.681694946
+    Average RMSE: 0.8147253654176718
+    Coverage: 99.466%
+    Time:0.688645982
+    Average RMSE: 0.8147253654176718
+    Coverage: 99.466%
+    Time:0.560293868
+    Average RMSE: 0.8147253654176718
+    Coverage: 99.466%
+    Time:0.648662067
+    Average RMSE: 0.8147253654176718
+    Coverage: 99.466%
+    Time:0.540819325
+
+Neighbourhood: 100
+    Average RMSE: 0.8123577217445982
+    Coverage: 99.611%
+    Time:1.177979788
+    Average RMSE: 0.8123577217445982
+    Coverage: 99.611%
+    Time:0.836735176
+    Average RMSE: 0.8123577217445982
+    Coverage: 99.611%
+    Time:0.899966567
+    Average RMSE: 0.8123577217445982
+    Coverage: 99.611%
+    Time:0.78327411
+    Average RMSE: 0.8123577217445982
+    Coverage: 99.611%
+    Time:0.856863603
+    Average RMSE: 0.8123577217445982
+    Coverage: 99.611%
+    Time:0.867047294
+    Average RMSE: 0.8123577217445982
+    Coverage: 99.611%
+    Time:0.874541135
+    Average RMSE: 0.8123577217445982
+    Coverage: 99.611%
+    Time:0.781393241
+    Average RMSE: 0.8123577217445982
+    Coverage: 99.611%
+    Time:0.783943847
+    Average RMSE: 0.8123577217445982
+    Coverage: 99.611%
+    Time:0.833138633
+
+Neighbourhood: 150
+    Average RMSE: 0.8126908123413791
+    Coverage: 99.653%
+    Time:1.635454311
+    Average RMSE: 0.8126908123413791
+    Coverage: 99.653%
+    Time:1.290289263
+    Average RMSE: 0.8126908123413791
+    Coverage: 99.653%
+    Time:1.003417745
+    Average RMSE: 0.8126908123413791
+    Coverage: 99.653%
+    Time:1.093134887
+    Average RMSE: 0.8126908123413791
+    Coverage: 99.653%
+    Time:1.06854359
+    Average RMSE: 0.8126908123413791
+    Coverage: 99.653%
+    Time:1.024230922
+    Average RMSE: 0.8126908123413791
+    Coverage: 99.653%
+    Time:1.061174872
+    Average RMSE: 0.8126908123413791
+    Coverage: 99.653%
+    Time:1.071718358
+    Average RMSE: 0.8126908123413791
+    Coverage: 99.653%
+    Time:0.989361148
+    Average RMSE: 0.8126908123413791
+    Coverage: 99.653%
+    Time:1.033449585
+
+Neighbourhood: 200
+    Average RMSE: 0.8134859711136622
+    Coverage: 99.68%
+    Time:1.615056864
+    Average RMSE: 0.8134859711136622
+    Coverage: 99.68%
+    Time:1.513794514
+    Average RMSE: 0.8134859711136622
+    Coverage: 99.68%
+    Time:1.747414966
+    Average RMSE: 0.8134859711136622
+    Coverage: 99.68%
+    Time:2.038384827
+    Average RMSE: 0.8134859711136622
+    Coverage: 99.68%
+    Time:1.381107563
+    Average RMSE: 0.8134859711136622
+    Coverage: 99.68%
+    Time:1.683858092
+    Average RMSE: 0.8134859711136622
+    Coverage: 99.68%
+    Time:1.580874724
+    Average RMSE: 0.8134859711136622
+    Coverage: 99.68%
+    Time:1.592168518
+    Average RMSE: 0.8134859711136622
+    Coverage: 99.68%
+    Time:1.947737152
+    Average RMSE: 0.8134859711136622
+    Coverage: 99.68%
+    Time:1.400185661
+
+
+Task 2
+    Average RMSE: 0.8188941221533746
+    Coverage: 0.99859%
+    1.724788549
+    Average RMSE: 0.8188941221533746
+    Coverage: 0.99859%
+    0.864222815
+    Average RMSE: 0.8188941221533746
+    Coverage: 0.99859%
+    0.739742837
+    Average RMSE: 0.8188941221533746
+    Coverage: 0.99859%
+    0.785703718
+    Average RMSE: 0.8188941221533746
+    Coverage: 0.99859%
+    0.731004204
+    Average RMSE: 0.8188941221533746
+    Coverage: 0.99859%
+    0.863874397
+    Average RMSE: 0.8188941221533746
+    Coverage: 0.99859%
+    1.544445038
+    Average RMSE: 0.8188941221533746
+    Coverage: 0.99859%
+    0.959938356
+    Average RMSE: 0.8188941221533746
+    Coverage: 0.99859%
+    0.740599324
+    Average RMSE: 0.8188941221533746
+    Coverage: 0.99859%
+    0.816469603
+Task 3
+    Average RMSE: 0.8126976868308564
+    Coverage: 99.653%
+    Time:2.149554443
+    Average RMSE: 0.8126976868308564
+    Coverage: 99.653%
+    Time:1.565988381
+    Average RMSE: 0.8126976868308564
+    Coverage: 99.653%
+    Time:1.303446781
+    Average RMSE: 0.8126976868308564
+    Coverage: 99.653%
+    Time:1.161320154
+    Average RMSE: 0.8126976868308564
+    Coverage: 99.653%
+    Time:1.171906826
+    Average RMSE: 0.8126976868308564
+    Coverage: 99.653%
+    Time:1.07230126
+    Average RMSE: 0.8126976868308564
+    Coverage: 99.653%
+    Time:1.265058521
+    Average RMSE: 0.8126976868308564
+    Coverage: 99.653%
+    Time:1.071515504
+    Average RMSE: 0.8126976868308564
+    Coverage: 99.653%
+    Time:1.235719554
+    Average RMSE: 0.8126976868308564
+    Coverage: 99.653%
+    Time:1.082849776
+
+Task 3
+Neighbourhood Size: 2000
+Average RMSE: 0.8141063295729568
+Coverage: 99.72800000000001%
+Time:3.25141014
+Neighbourhood Size: 1950
+Average RMSE: 0.8141063295729568
+Coverage: 99.72800000000001%
+Time:1.832670902
+Neighbourhood Size: 1900
+Average RMSE: 0.8141063295729568
+Coverage: 99.72800000000001%
+Time:1.656192924
+Neighbourhood Size: 1850
+Average RMSE: 0.8141063295729568
+Coverage: 99.72800000000001%
+Time:1.831524584
+Neighbourhood Size: 1800
+Average RMSE: 0.8141063295729568
+Coverage: 99.72800000000001%
+Time:1.692853053
+Neighbourhood Size: 1750
+Average RMSE: 0.8141063295729568
+Coverage: 99.72800000000001%
+Time:1.589051515
+Neighbourhood Size: 1700
+Average RMSE: 0.8141063295729568
+Coverage: 99.72800000000001%
+Time:1.627309744
+Neighbourhood Size: 1650
+Average RMSE: 0.8141063295729568
+Coverage: 99.72800000000001%
+Time:1.723486688
+Neighbourhood Size: 1600
+Average RMSE: 0.8141063295729568
+Coverage: 99.72800000000001%
+Time:1.744033268
+Neighbourhood Size: 1550
+Average RMSE: 0.8141063295729568
+Coverage: 99.72800000000001%
+Time:1.594068633
+Neighbourhood Size: 1500
+Average RMSE: 0.8141063295729568
+Coverage: 99.72800000000001%
+Time:1.636854045
+Neighbourhood Size: 1450
+Average RMSE: 0.8141063295729568
+Coverage: 99.72800000000001%
+Time:1.634012262
+Neighbourhood Size: 1400
+Average RMSE: 0.8141063295729568
+Coverage: 99.72800000000001%
+Time:1.655760293
+Neighbourhood Size: 1350
+Average RMSE: 0.8141063295729568
+Coverage: 99.72800000000001%
+Time:1.727033947
+Neighbourhood Size: 1300
+Average RMSE: 0.8141063295729568
+Coverage: 99.72800000000001%
+Time:1.654272407
+Neighbourhood Size: 1250
+Average RMSE: 0.8141063295729568
+Coverage: 99.72800000000001%
+Time:1.723595703
+Neighbourhood Size: 1200
+Average RMSE: 0.8141063295729568
+Coverage: 99.72800000000001%
+Time:1.678061023
+Neighbourhood Size: 1150
+Average RMSE: 0.8141063295729568
+Coverage: 99.72800000000001%
+Time:1.510642556
+Neighbourhood Size: 1100
+Average RMSE: 0.8141063295729568
+Coverage: 99.72800000000001%
+Time:1.642558881
+Neighbourhood Size: 1050
+Average RMSE: 0.8141063295729568
+Coverage: 99.72800000000001%
+Time:1.688234181
+Neighbourhood Size: 1000
+Average RMSE: 0.8141063295729568
+Coverage: 99.72800000000001%
+Time:1.729937006
+Neighbourhood Size: 950
+Average RMSE: 0.8141063295729568
+Coverage: 99.72800000000001%
+Time:1.63620525
+Neighbourhood Size: 900
+Average RMSE: 0.8141063295729568
+Coverage: 99.72800000000001%
+Time:1.662916848
+Neighbourhood Size: 850
+Average RMSE: 0.8141063295729568
+Coverage: 99.72800000000001%
+Time:1.589047879
+Neighbourhood Size: 800
+Average RMSE: 0.8141063295729568
+Coverage: 99.72800000000001%
+Time:1.634424038
+Neighbourhood Size: 750
+Average RMSE: 0.8141063295729568
+Coverage: 99.72800000000001%
+Time:1.592214675
+Neighbourhood Size: 700
+Average RMSE: 0.8141063295729568
+Coverage: 99.72800000000001%
+Time:1.608096268
+Neighbourhood Size: 650
+Average RMSE: 0.8141063295729568
+Coverage: 99.72800000000001%
+Time:1.563782266
+Neighbourhood Size: 600
+Average RMSE: 0.8141063295729568
+Coverage: 99.72800000000001%
+Time:1.565355455
+
+Neighbourhood Size: 550
+Average RMSE: 0.8141063295729568
+Coverage: 99.72800000000001%
+Time:1.704925221
+
+Neighbourhood Size: 500
+Average RMSE: 0.8141063295729568
+Coverage: 99.72800000000001%
+Time:1.620938316
+
+Neighbourhood Size: 450
+Average RMSE: 0.8141186959445563
+Coverage: 99.726%
+Time:1.665886806
+
+Neighbourhood Size: 400
+Average RMSE: 0.8149500893773456
+Coverage: 99.69%
+Time:1.571221129
+
+Neighbourhood Size: 350
+Average RMSE: 0.8185166662165964
+Coverage: 99.58%
+Time:1.568211381
+
+Neighbourhood Size: 300
+Average RMSE: 0.8248520383168684
+Coverage: 99.304%
+Time:1.358422679
+
+Neighbourhood Size: 250
+Average RMSE: 0.8343493502814683
+Coverage: 98.726%
+Time:1.3374939
+
+Neighbourhood Size: 200
+Average RMSE: 0.8483477657148378
+Coverage: 97.233%
+Time:1.084753835
+
+Neighbourhood Size: 150
+Average RMSE: 0.8717260374522656
+Coverage: 93.47800000000001%
+Time:0.943989478
+
+Neighbourhood Size: 100
+Average RMSE: 0.9145394647201259
+Coverage: 83.953%
+Time:0.675619781
+
+Neighbourhood Size: 50
+Average RMSE: 0.9795485283150737
+Coverage: 57.67099999999999%
+Time:0.35808647

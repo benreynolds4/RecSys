@@ -1,0 +1,26 @@
+Average RMSE: 0.8188941221533746
+Coverage: 99.859%
+
+Running Times:
+	1.047892425
+	0.963979024
+	0.886717168
+	0.729328685
+	0.63781373
+	0.700751122
+	0.806887749
+	0.667641852
+	0.671073593
+	0.674937874
+	
+Avaerage Time: 
+	
+See CSV File also. 
+
+Notes:
+Leave one out uses the meanItemRating from task one and the user left out is the fact that we dont count the own 
+users rating for an item. 
+
+I've taken the average RMSE as the total of them divided by the new 98 odd thousaand instead of the 100 thousand 
+but you could argue for dividing against the 100 thousand. 
+
