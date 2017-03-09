@@ -12,12 +12,15 @@ public class Recomender {
 	static HashMap<String, Double> already_calculated = new HashMap<>(); // Hashmap used for memoization.
 	private static Double meanItemRatingCoverage;
 	public static void main(String [] args) throws IOException {
+		long startTime = System.nanoTime();
 		 readFile();
 		 // Task 1:
+		  System.out.println("Task 1:");
 		  calculateUserStats();
 		  calculateItemStats();
 	
 		 // Task 2
+		  System.out.println("Task 2:");
 		/* System.out.println("Task 2");
 		   for(int i=0; i< 10; i++) {
 		 	 long startTime = System.nanoTime(); */
@@ -31,13 +34,14 @@ public class Recomender {
 			 similarityFunction(user.getID());
 		 }
 
-		  int nSize = 150;
+		  int nSize = 300;
 		  // Task 3
 		  /*for(int i=0; i< 40; i++) {
 		  	 nSize = 150;
 		  	 System.out.println("Neighbourhood Size: " + nSize ); */
-			 long startTime = System.nanoTime();
+		      System.out.println("Task 3:");
 			  LeaveOneOutNeighbours(nSize); 	// Task 3
+		 	  System.out.println("Task 4:");
 			  LeaveOneOutResnicks(nSize);		// Task 4
 			 long stopTime = System.nanoTime();
 			 System.out.println("Time:" + (double)(stopTime - startTime) / 1000000000.0 );
@@ -51,6 +55,7 @@ public class Recomender {
 
 	public static void similarityFunction(int user_id) {
 		User currentUser = users.get(user_id);
+
 		for(User user: users.values()) {
 			// key is used for the key of the hashmap of memoization.
 			String key = Integer.toString(user.getID()) + "-" + Integer.toString(currentUser.getID());
@@ -92,7 +97,6 @@ public class Recomender {
 				 already_calculated.put(newKey2, cosineScore);
 			}
 		}
-
 	}
 
 	/* This method calculated a cosine similarity score for two different users */
@@ -151,6 +155,7 @@ public class Recomender {
 			}
 		}
 		pw.close();
+		System.out.println("Total Count:" + totalCount);
 		Double averageRMSE = (Double) (totalRMSES / count);
 		Double coverage = (count / totalCount ) * 100;
 		System.out.println("Average RMSE: "+averageRMSE);
@@ -172,7 +177,7 @@ public class Recomender {
 			for(int item_id : user.getItems()) {
 				 StringBuilder sb = new StringBuilder();
 				 Double prediction = meanItemRating(user_id, item_id, neighbours);
-				 if( prediction != 0.0) {
+				 if(prediction != 0.0) {
 						sb.append(user_id + " , " + item_id + " , " + user.getValue(item_id) + " , " +
 								 prediction + " , " + Math.abs(user.getValue(item_id) - prediction) + "\n");
 						totalRMSES += Math.abs(user.getValue(item_id) - prediction);
@@ -183,6 +188,7 @@ public class Recomender {
 			}
 		}
 		pw.close();
+		System.out.println("Total Count:" + totalCount);
 		Double averageRMSE = (Double) (totalRMSES / count);
 		Double coverage = (count / totalCount ) * 100;
 		System.out.println("Average RMSE: "+averageRMSE);
@@ -214,6 +220,7 @@ public class Recomender {
 			}
 		}
 		pw.close();
+		System.out.println("Total Count:" + totalCount);
 		Double averageRMSE = (Double) (totalRMSES / count);
 		Double coverage = (Double) (count / totalCount);
 		System.out.println("Average RMSE: " + averageRMSE);
@@ -240,7 +247,11 @@ public class Recomender {
 	 */
 	private static void readFile() throws IOException {
 		File file = new File("dataset-large.txt");
-        BufferedReader br = new BufferedReader(new FileReader(file));
+		InputStream is = Recomender.class.getResourceAsStream("dataset-large.txt");
+		System.out.print(is);
+		InputStreamReader isr = new InputStreamReader(is);
+		BufferedReader br = new BufferedReader(isr);
+       // BufferedReader br = new BufferedReader(new FileReader(file));
         String st;
         while((st=br.readLine()) != null){
         	String[] line = st.split(",");
@@ -268,6 +279,8 @@ public class Recomender {
         }
         br.close();
 	}
+
+
 
 	/* This method iterates over all the users in the users map and calls the user object to calculate the
 	 * statistics for that user. It also prints out the statistics as the results of task 1.
